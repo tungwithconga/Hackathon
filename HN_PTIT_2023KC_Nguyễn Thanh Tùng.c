@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 int main(){
-	int size = 10;
+	int size = 100;
 	int currentIndex;
 	int numbers[size];
 	int positiveNumsCount = 0;
